@@ -4,12 +4,12 @@ altium designer library from Henry
 
 Please use these libraries only lol
 
-./IOBoard3/PBL - SMD Packages.PcbLib
-./IOBoard3/PBL - THD Packages.PcbLib
-./IOBoard3/IOBoard.SCHLIB
-./IOBoard3/PCB1.PcbLib
+./IOBoard_Low1/PBL - SMD Packages.PcbLib
+./IOBoard_Low1/PBL - THD Packages.PcbLib
 ./IOBoard_Low1/IOBoard_Low.SCHLIB
 ./IOBoard_Low1/IOBoard2.PcbLib
+./IOBoard3/IOBoard.SCHLIB
+./IOBoard3/PCB1.PcbLib
 
 If add components please add them to
 
