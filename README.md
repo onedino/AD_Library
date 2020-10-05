@@ -4,6 +4,8 @@ altium designer library from Henry
 
 ## Please use these libraries only lol
 
+All the other libraries are archived and for reference purpose obly
+
 ### ./IOBoard_Low1/PBL - SMD Packages.PcbLib
 ### ./IOBoard_Low1/PBL - THD Packages.PcbLib
 ### ./IOBoard_Low1/IOBoard_Low.SCHLIB
