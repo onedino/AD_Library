@@ -1,0 +1,15 @@
+Component   : 1X3_HDR_2.00mm_PH
+PCB Library : PBL - THD Packages.PcbLib
+Date        : 12/7/2021
+Time        : 12:52:35 pm
+
+
+
+Dimension : 8.103 x 4.902 mm
+
+ Layer(s)              Pads(s)  Tracks(s)  Fill(s)  Arc(s)  Text(s)
+--------------------------------------------------------------------
+ Top Overlay                 0          4        0       0        0
+ Multi Layer                 3          0        0       0        0
+--------------------------------------------------------------------
+ Total                       3          4        0       0        0
