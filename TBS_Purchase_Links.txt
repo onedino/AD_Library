@@ -24,6 +24,7 @@ fire cow and power supply 5V 24V 12V
 https://detail.tmall.com/item.htm?spm=a230r.1.14.19.44ff5ce0zUvlRa&id=567412433302&ns=1&abbucket=9&skuId=3782070615816
 https://detail.tmall.com/item.htm?spm=a1z10.3-b.w4011-22026895062.41.6a2722ee9tybt8&id=602000832578&rn=84ea9c6b3acf3ff3334a220272a45abf&abbucket=7&skuId=4218153137107
 RJ11 RJ45 connectors
+RJ45 單口立式180度不帶燈
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.16.543e62ebEFUcZ4&id=537915037289&ns=1&abbucket=9#detail
 PJ320 audio jack
@@ -87,6 +88,11 @@ https://detail.tmall.com/item.htm?id=625491053946&ali_refid=a3_430008_1006:13296
 Option: 2P (2*1 直針) 
 QTY: 1
 
+https://detail.tmall.com/item.htm?spm=a230r.1.14.13.683c45d5HwU24x&id=598553719472&cm_id=140105335569ed55e27b&abbucket=18&skuId=4336640970180
+Option: 铆鱼叉 DP15 (三排） 母頭 
+QTY： 9
+
+
 https://item.taobao.com/item.htm?spm=a230r.1.14.129.2c1e575fMnVakT&id=590105577194&ns=1&abbucket=18#detail
 Option: 4P
 QTY: 1
@@ -95,4 +101,21 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.21.2cbf6e7esNlbp3&id=64910380304
 
 Option 4x1.5 (3+1) 10米
 QTY: 1
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.22.97fb41a0S9yLCp&id=568835615904&ns=1&abbucket=18&skuId=3640241785903
+VH connector for main pump
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.1.67be40e18mgHn9&id=594797841989&ns=1&abbucket=18#detail
+
+Option: 一個
+QTY： 6
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.7.322c3a43TCqGNV&id=640216891347&ns=1&abbucket=18#detail
+
+QTY： 6
+
+https://detail.tmall.com/item.htm?id=624735366120&spm=a230r.1.14.21.13ec1b3a5P5vOl&ns=1&abbucket=18&skuId=4423400557887
+
+option: 一個
+qty: 20
 
