@@ -1,0 +1,34 @@
+Comment,Description,Designator,Quantity,,done,place,
+,,,,,,,
+10uF 16V,"CL21 Series 0805 10uF 10V ±10% Tolerance X5R Multilayer Ceramic Chip Capacitor
+
+CL21A106KPFNNNE","C3, C4, C5, C6, C7, C8, C9, C10, C11, C12",10,,yes,table,
+100nF,GRM155R61E104KA87D,"C13, C14, C15",3,,yes,office,
+22u 35V,CAP CER 0805 22uF 35V X5R 20%,"C16, C17, C18, C19, C20, C21",6,,yes,table,
+LED_Green_GullWing,LED Gull-wing SMD High-intensity Green 450mcd 574nm,"CHG_LED, D1, D2",3,,yes,office,
+SS24,2.0A SURFACE MOUNT SCHOTTKY BARRIER RECTIFIER,"D3, D4",2,,yes,Testjig / hydro,
+16V 5A,FUSE 16V 5A 1812 PTC Resettable Fuses,"F1, F2",2,,yes,lcsc,https://lcsc.com/product-detail/PTC-Resettable-Fuses_TECHFUSE-mSMD260-16V_C70129.html
+PTC 6V 7A,FUSE 6V 7A 1812 PTC Resettable Fuses,"F3, F4",2,,yes,lcsc,"no stock, use same fuse as above"
+Dual Lipo Holder,"Dual 18650 Lipo battery holder, suitable for both 1048 and 1049 from keystone",H1,1,,,taobao?,https://item.taobao.com/item.htm?spm=a230r.1.14.28.40f44fcbRyomcD&id=593101534224&ns=1&abbucket=18#detail
+MAX485ESA+T,Integrated Circuit,IC1,1,,yes,hydro,https://lcsc.com/product-detail/RS-485-RS-422-ICs_Maxim-Integrated-MAX485ESA-T_C19738.html
+CN3153,Integrated Circuit,IC2,1,,yes,ask chris,https://lcsc.com/product-detail/Battery-Management-ICs_ShangHai-Consonance-Elec-CN3153_C43405.html
+22-03-5045,Connector,"J1, J2, J3",3,,,taobao,https://item.taobao.com/item.htm?spm=a230r.1.14.39.77c71c0bqm7D7U&id=37119550979&ns=1&abbucket=18#detail
+TYS60456R8M-10,Inductor,"L1, L2",2,,,mouser,https://www.mouser.hk/ProductDetail/Laird-Performance-Materials/TYS60456R8M-10?qs=%2Fha2pyFaduj%2Fm%2FXlxh1R%2F8YO1lHOb43BcZhE72kIiBrOcxURtkYwjA%3D%3D
+M3_MNT_Hole,,"MNT1, MNT2, MNT3, MNT4",4,,yes,screws,
+SISA01DN,P-channel mosfet 30-Vds ID: 20A,Q1,1,,yes,table,
+1K,"Chip Resistor, 1 KOhm, +/- 1%, 100 mW, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel
+
+ERJ-2RKF1001X","R1, R2, R15",3,,yes,office,
+120R,RC0402JR-07120RL,R3,1,,yes,office,
+10K,"Chip Resistor, 10 KOhm, +/- 1%, 0.1 W, -55 to 155 degC, 0402 (1005 Metric), RoHS, Tape and Reel
+
+ERJ2RKF1002X","R4, R7, R9, R12",4,,yes,office,
+51K,RC0402JR-0751KL,"R5, R13",2,,yes,office,
+2K7,RC0402JR-072K7L,"R6, R14",2,,yes,office,
+5K1,RC0402FR-075K1L,"R10, R11",2,,yes,office,
+ESP-WROOM-32,ESP-WROOM-32 MODULE,U1,1,,yes,table,
+TXS0104ED,IC TRNSLTR BIDIRECTIONAL 14SOIC,U2,1,,,taobao?,https://item.taobao.com/item.htm?spm=a230r.1.14.1.15dd496eZx9yIU&id=645025977914&ns=1&abbucket=18#detail
+MT3608 / SB6286,"Boost conveter, 2-24V input voltage, 28V max outpuut voltage, 2A output","U3, U5",2,,yes,EC fan,https://lcsc.com/product-detail/DC-DC-Converters_XI-AN-Aerosemi-Tech-MT3608_C84817.html
+LM1117-5.0,"1117 LDO with fixed 5V output, 800mA current",U4,1,,yes,Testjig,
+Header,Header 3-pin,UART,1,,yes,office,
+USB type C connector,USB type C connector,USB1,1,,yes,table,
