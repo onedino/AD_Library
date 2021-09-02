@@ -201,3 +201,14 @@ QTY： 20
 13/8 note: only missing molex mega fit for testboard and stuff from LCSC and digikey
 
 tracer 69 and baudrate translator on tommy's table
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.58.2f85302dqRcv2z&id=640971383887&ns=1&abbucket=18#detail
+
+Option: type C 公對公 （5cm） (for aya neo back)
+QTY：3
+
+
+https://www.aliexpress.com/item/1005001476774066.html
+(for aya neo back)
+
+

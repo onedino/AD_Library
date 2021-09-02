@@ -1,0 +1,27 @@
+pdMS_TO_TICKS
+function to make the thread sleep in terms of ms instead of tick
+
+configTICK_RATE_HZ
+Macro holding the frequency of the RTOS
+
+configMAX_PRIORITIES
+Check the max priority of a task
+
+vTaskDelayUntil
+use this instead of vTaskDelay for fixed tick delay
+
+ulIdleCycleCount
+Check idle cycle counts
+
+vTaskDelete
+Delete a child task spawn form another task to allow execution to return
+
+configUSE_PREEMPTION and configUSE_TIME_SLICING
+edit to change scheduling algorithm
+
+task with same priority will enter running state in turn (round robin)
+
+time slicing is equal to 2 ticks interrupts
+
+queue use as mailbox to send stuff between threads
+
