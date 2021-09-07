@@ -23,5 +23,6 @@ task with same priority will enter running state in turn (round robin)
 
 time slicing is equal to 2 ticks interrupts
 
-queue use as mailbox to send stuff between threads
+ESP-IDF stack size is in terms of bytes instead of words
 
+https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/freertos-smp.html
