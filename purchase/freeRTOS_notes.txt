@@ -26,3 +26,12 @@ time slicing is equal to 2 ticks interrupts
 ESP-IDF stack size is in terms of bytes instead of words
 
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-guides/freertos-smp.html
+
+interrupt use function with "FromISR" Suffix
+
+
+
+
+
+
+
