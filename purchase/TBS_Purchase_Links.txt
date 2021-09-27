@@ -218,6 +218,14 @@ also need to make a semi dock for own usage :P
 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.7.26e96770Jmd8EY&id=623866938088&ns=1&abbucket=18&skuId=4581966450131
 
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.7cbf64a9aqWSKF&id=592633246948&ns=1&abbucket=18&skuId=4452219829665
+
+Option: USB轉RS485（CH340芯片） 
+
+QTY： 3
 
 
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.1db810d9cdcGN6&id=581079020635&ns=1&abbucket=18&skuId=3882716896750
 
+Option: 雙頭6P （兩條）
+QTY： 5
