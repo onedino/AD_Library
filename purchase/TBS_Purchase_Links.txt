@@ -71,21 +71,21 @@ Molex for testjigs, 2P for 36V, 4P for stepper phases
 https://item.taobao.com/item.htm?spm=a230r.1.14.6.69b0226cR709MA&id=628739756863&ns=1&abbucket=18#detail
 KF2EDGA/2EDGB-3.5/3.81mm PCB
 
-option: 彎針
+option: 彎針 3.81mm
 Option： 3P
-QTY： 3
+QTY： 12
 
-option: 彎針
+option: 彎針 3.81mm
 Option： 4P
-QTY： 3
+QTY： 12
 
-option: 彎針
+option: 彎針 3.81mm
 Option： 6P
-QTY： 3
+QTY： 12
 
-option: 彎針
+option: 彎針 3.81mm
 Option： 8P
-QTY： 3
+QTY： 12
 
 https://detail.tmall.com/item.htm?id=625491053946&ali_refid=a3_430008_1006:1329630163:N:O5vBOtsDDbXuQPUpDGld1Nha8xokMD1f:28fc97c1de4f51d093b6c8427d7909bb&ali_trackid=1_28fc97c1de4f51d093b6c8427d7909bb&spm=a230r.1.0.0&skuId=4430625208575
 Option: 2P (2*1 直針) 
@@ -229,3 +229,43 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.16.1db810d9cdcGN6&id=5810790206
 
 Option: 雙頭6P （兩條）
 QTY： 5
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.22.19793a43CcNxYG&id=599819735090&ns=1&abbucket=18#detail
+Option： 梅花
+QTY： 5
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.49.56cc1b15SOf4Hh&id=541885536672&ns=1&abbucket=18#detail
+Option： 三美24V6A不配綫
+QTY： 2
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.30.10c43354PCVs3z&id=17860654191&ns=1&abbucket=18&skuId=4461057814590
+
+Option: 臥貼 6P
+QTY： 1
+
+Option: 立貼 6P
+QTY： 1
+
+
+Good sensors
+
+https://www.ia.omron.com/products/family/442/specification.html
+seperate type light gate 
+
+https://www.ia.omron.com/products/family/440/specification.html
+U type light gate
+SPX301 or 401
+
+https://www.hokuyo-aut.jp/search/single.php?serial=181
+U type light gate
+
+https://www.sick.com/cn/en/distance-sensors/ultrasonic-sensors/uc12/uc12-12231/p/p222381?ff_data=JmZmX2lkPXAyMjIzODEmZmZfbWFzdGVySWQ9cDIyMjM4MSZmZl90aXRsZT1VQzEyLTEyMjMxJmZmX3F1ZXJ5PSZmZl9wb3M9OCZmZl9vcmlnUG9zPTQ1JmZmX3BhZ2U9MSZmZl9wYWdlU2l6ZT04JmZmX29yaWdQYWdlU2l6ZT04JmZmX3NpbWk9OTQuMA==&ff_data=JmZmX2lkPXAyMjIzODEmZmZfbWFzdGVySWQ9cDIyMjM4MSZmZl90aXRsZT1VQzEyLTEyMjMxJmZmX3F1ZXJ5PSZmZl9wb3M9OCZmZl9vcmlnUG9zPTQ1JmZmX3BhZ2U9MSZmZl9wYWdlU2l6ZT04JmZmX29yaWdQYWdlU2l6ZT04JmZmX3NpbWk9OTQuMA==
+distance sensor
+
+https://docs.rs-online.com/58fe/0900766b815b556f.pdf
+accurate dual light gate 
+1000 hkd for one pair
+
+https://www.ia.omron.com/products/family/1503/specification.html
+seems good light gate
+expensive as fuck
