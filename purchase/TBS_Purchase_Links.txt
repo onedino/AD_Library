@@ -30,7 +30,7 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.16.543e62ebEFUcZ4&id=53791503728
 PJ320 audio jack
 
 https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-21223910208.9.3d436a4bloUXdt&id=556824962771
-https://detail.tmall.com/item.htm?spm=a1z10.1-b-s.w5003-21634422719.5.2b81a5c1Gu2ITw&id=14422
+
 https://item.taobao.com/item.htm?spm=a230r.1.14.74.3e806fd5BxD7D6&id=635207538719&ns=1&abbucket=18#detail
 USB PCB Headers
 
@@ -97,40 +97,45 @@ QTY： 9
 
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.129.2c1e575fMnVakT&id=590105577194&ns=1&abbucket=18#detail
+molex stepper motor connector
 Option: 4P
 QTY: 1
 
-https://item.taobao.com/item.htm?spm=a230r.1.14.21.2cbf6e7esNlbp3&id=649103803045&ns=1&abbucket=18#detail
-
-Option 4x1.5 (3+1) 10米
+https://item.taobao.com/item.htm?id=571442828572&ali_refid=a3_430008_1006:1125214155:N:kJY2ib8y5HBEu2v8utD99Q%3D%3D:c1db22921ea39578050e093642ab2e81&ali_trackid=1_c1db22921ea39578050e093642ab2e81&spm=a230r.1.0.0
+Option: 國際RVV4四芯*2.5mm^2 足100米
+Option: 4x1.5 (3+1) 10米
 QTY: 1
+
+https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-21184820513.25.29f677a18t1IWM&id=632305369089
+Option: YJV無氧銅 4*1.5mm^2
+QTY: 1
+
 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.22.97fb41a0S9yLCp&id=568835615904&ns=1&abbucket=18&skuId=3640241785903
 VH connector for main pump
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.1.67be40e18mgHn9&id=594797841989&ns=1&abbucket=18#detail
-
+mega fit housing
 Option: 一個
 QTY： 6
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.7.322c3a43TCqGNV&id=640216891347&ns=1&abbucket=18#detail
-
+molex mega fit connector
 QTY： 6
 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.37.41c455b9hw7NAy&id=590847642645&ns=1&abbucket=18&skuId=4053270857431
-
+SMT header
 option: 單排錯位排母
 
 QTY: 5
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.39.77c71c0bqm7D7U&id=37119550979&ns=1&abbucket=18#detail
-
+RS485 connectors
 Option: 20pcs
 QTY: 1
 
 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.61.2d1e7bb7Rmilga&id=37404934811&ns=1&abbucket=18&skuId=4811809231020
-
 Option： 内徑10*11 (可打開）
 QTY： 2
 
@@ -189,7 +194,7 @@ QTY: 5
 
 https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-18354371206.60.19c51a4eIE3I5S&id=571311341078
 QTY: 5
-
+ 
 https://detail.tmall.com/item.htm?spm=a230r.1.14.12.6b3b67d2YiE6rm&id=650076323172&ns=1&abbucket=18&skuId=4682927617793
 Option: 貼片簡牛座 ID3-20P 2.54mm (5個)
 QTY: 4
@@ -200,12 +205,17 @@ QTY： 20
 
 13/8 note: only missing molex mega fit for testboard and stuff from LCSC and digikey
 
-tracer 69 and baudrate translator on tommy's table
+tracer 69 and baudrate translator on tommy's tablea
 
 https://item.taobao.com/item.htm?spm=a230r.1.14.58.2f85302dqRcv2z&id=640971383887&ns=1&abbucket=18#detail
 
 Option: type C 公對公 （5cm） (for aya neo back)
 QTY：3
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.1.7f42212cC4cFXF&id=647649107947&ns=1&abbucket=18#detail
+Option： EE-SX672WR 自帶導綫型
+QTY：10
+
 
 
 https://www.aliexpress.com/item/1005001476774066.html
@@ -246,6 +256,21 @@ QTY： 1
 Option: 立貼 6P
 QTY： 1
 
+https://item.taobao.com/item.htm?spm=a230r.1.14.34.176d11b7b4c0We&id=634487078409&ns=1&abbucket=18#detail
+Option: 體驗版5米一卷4000K中光12V60燈
+QTY： 1
+
+https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-23472802675.78.bd83599ecftt1W&id=546229378279&rn=e428298de37f40a8549dcc10404832d3&abbucket=4&skuId=4576377631279
+Option: LRS-350-36
+QTY: 1
+
+https://detail.tmall.com/item.htm?spm=a312a.7700824.w4011-23472802675.69.4faa4cdajBUSsI&id=551087705677&rn=cce332ece476d49f4a4c3256fc6b153e&abbucket=4
+Option: MHS012(單個）
+QTY： 4
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.6c371cf3R7w1Wu&id=561674933281&ns=1&abbucket=18&skuId=4202410860456
+Option: 母頭朝下
+QTY： 5
 
 Good sensors
 
