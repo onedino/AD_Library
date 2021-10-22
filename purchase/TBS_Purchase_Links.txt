@@ -272,6 +272,48 @@ https://detail.tmall.com/item.htm?spm=a230r.1.14.16.6c371cf3R7w1Wu&id=5616749332
 Option: 母頭朝下
 QTY： 5
 
+https://detail.tmall.com/item.htm?spm=a230r.1.14.23.5ea813b1CIRKQ6&id=644983790633&ns=1&abbucket=18
+AC Power input jack
+QTY: 5
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.49.5f9365e6tJLgBU&id=564403477756&ns=1&abbucket=18#detail
+
+Option: 20W
+Option: 台灣
+Option: 白色
+
+QTY: 5
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.49.7e892144XvTq5Z&id=631618929372&ns=1&abbucket=18#detail
+
+Option: 2*2P
+Option: 直針+公膠盒
+QTY: 30
+
+molex connector for light gate
+
+16-02-0069 terminal
+https://item.taobao.com/item.htm?spm=a312a.7700824.w4002-6798724682.9.1da85293SgdCHe&id=558800801558
+
+50-57-9403 housing
+https://item.taobao.com/item.htm?spm=a230r.1.14.21.f52132ffOlLbxn&id=527347162204&ns=1&abbucket=18#detail
+
+70553-0002 header
+https://item.taobao.com/item.htm?spm=a230r.1.14.21.735012b7m0yCxQ&id=624525144042&ns=1&abbucket=18#detail
+
+
+hirose connector for CM4
+https://item.taobao.com/item.htm?spm=a230r.1.14.12.d9c771f34e98pJ&id=550562720138&ns=1&abbucket=18#detail
+
+TPS22917
+https://item.taobao.com/item.htm?spm=a230r.1.14.27.25be3c6dIj2H3e&id=654886561443&ns=1&abbucket=18#detail
+
+
+
+
+
+
+
 Good sensors
 
 https://www.ia.omron.com/products/family/442/specification.html
@@ -294,3 +336,4 @@ accurate dual light gate
 https://www.ia.omron.com/products/family/1503/specification.html
 seems good light gate
 expensive as fuck
+
