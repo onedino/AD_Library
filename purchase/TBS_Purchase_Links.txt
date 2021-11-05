@@ -203,10 +203,6 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.35.6ad15ce6DBbmWS&id=52735021044
 Option: 20P 鍍金
 QTY： 20
 
-13/8 note: only missing molex mega fit for testboard and stuff from LCSC and digikey
-
-tracer 69 and baudrate translator on tommy's tablea
-
 https://item.taobao.com/item.htm?spm=a230r.1.14.58.2f85302dqRcv2z&id=640971383887&ns=1&abbucket=18#detail
 
 Option: type C 公對公 （5cm） (for aya neo back)
