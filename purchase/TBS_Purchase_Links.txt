@@ -304,10 +304,74 @@ https://item.taobao.com/item.htm?spm=a230r.1.14.12.d9c771f34e98pJ&id=55056272013
 TPS22917
 https://item.taobao.com/item.htm?spm=a230r.1.14.27.25be3c6dIj2H3e&id=654886561443&ns=1&abbucket=18#detail
 
+https://detail.tmall.com/item.htm?spm=a1z10.5-b.w4011-5502135451.102.14372d1bT5zQjK&id=37404934811&rn=743769c8f23df8f3fcfccb4d4ee53db8&abbucket=4&skuId=4811809231020
+
+Option: 内徑10*11 (可打開）
+QTY: 5
+
+https://detail.tmall.com/item.htm?spm=a312a.7700824.w4011-21581825912.179.5c31a68eZvsgNt&id=600105945274&rn=11fec4759b14ef22f3479cb7524c422e&abbucket=4&skuId=4194948953612
+
+Option: 2*2P 43025 43025插头+43020母壳+端子1套
+QTY: 20
+
+https://detail.tmall.com/item.htm?spm=a312a.7700718.1998025129.3.15c674e9XEN530&id=13321689910&scm=1007.12144.95220.23864_0_0&pvid=3d5731f2-5340-4e9b-a4e7-1099c96aaa7c&utparam=%7B%22x_hestia_source%22:%2223864%22,%22x_object_type%22:%22item%22,%22x_hestia_subsource%22:%22default%22,%22x_mt%22:0,%22x_src%22:%2223864%22,%22x_pos%22:3,%22wh_pid%22:-1,%22x_pvid%22:%223d5731f2-5340-4e9b-a4e7-1099c96aaa7c%22,%22scm%22:%221007.12144.95220.23864_0_0%22,%22x_object_id%22:13321689910%7D&skuId=3632078798048
+
+Option: 1x15p 單排母(10個)
+QTY: 2
 
 
+https://detail.tmall.com/item.htm?spm=a312a.7700824.w4011-18288959677.177.35f940c1lwngja&id=598818601855&rn=e210995a6ac3efccaf009f0365c80738&abbucket=4&skuId=4494698583209
+Option: 3*6(20粒）
+QTY: 5
 
 
+https://detail.tmall.com/item.htm?spm=a312a.7700824.w4011-18288959677.167.48374984Xs21DA&id=17551140559&rn=90a1a9d0dc4c3a30a0aa71b43b887d94&abbucket=4&skuId=4746417220037
+
+Option: 3*8+6(50個） 白色
+QTY： 2
+
+https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-18288959677.90.a614ebee2K13hk&id=17318980620&rn=ceac0d136593fb54e6ca5d1c4d9613c1&abbucket=4&skuId=4740714196007
+Option: 3*8+6(20個)
+QTY： 5
+
+PA50 series
+https://item.taobao.com/item.htm?spm=a230r.1.14.28.33e23205EYSEhB&id=589754586958&ns=1&abbucket=18#detail
+
+Option:單針
+Option: 華榮 P50-D2 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P50-J1 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P50-B1 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P50-G2 頭部鍍金(100支）
+QTY: 1
+
+
+PA75 series
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.3f4d3dc8id5BNw&id=589763824870&ns=1&abbucket=18#detail
+
+Option:單針
+Option: 華榮 P75-D2 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P75-J1 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P75-B1 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P75-G2 頭部鍍金(100支）
+QTY: 1
 
 
 Good sensors
