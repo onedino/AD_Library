@@ -373,6 +373,41 @@ Option:單針
 Option: 華榮 P75-G2 頭部鍍金(100支）
 QTY: 1
 
+ 
+HS8836A cheap usb hub
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.4bac4097BVbeqK&id=595763295882&ns=1&abbucket=18#detail
+
+
+
+
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.57.39a321da4Ce5eT&id=14947051899&ns=1&abbucket=18&skuId=4174373459138
+
+Option: SS24 SB240二極管2A/40V SMA(50個)
+QTY: 1
+
+STM32F030CC
+https://item.taobao.com/item.htm?spm=a230r.1.14.32.14842b3fycTlav&id=633180627492&ns=1&abbucket=18#detail
+
+QTY: 5
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.7f132e77hQ9xFk&id=578694660698&ns=1&abbucket=18#detail
+Option: CH340T
+QTY: 10
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Good sensors
 
