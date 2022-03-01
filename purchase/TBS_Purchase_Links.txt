@@ -455,6 +455,63 @@ Option: 75mm七件套
 
 
 
+TOBUY 2022_02_09
+
+RJ45 cables for jigs
+https://item.taobao.com/item.htm?spm=a230r.1.14.39.34cf7b18ryjQnN&id=649700173297&ns=1&abbucket=4#detail
+Option:灰色 六類 
+Option: 0.25m
+qty: 7
+
+Option:黃色 六類
+Option: 0.25m
+qty: 7
+
+Option:紅色 六類
+Option: 0.25m
+qty: 7
+
+Option:藍色 六類
+Option: 0.25m
+qty: 7
+
+Stepper motor cable spare parts
+https://detail.tmall.com/item.htm?spm=a230r.1.14.22.76612bd4wdpGxI&id=609374021359&ns=1&abbucket=4&skuId=4451132118944
+Option: 43025端子 (100個)
+qty: 1
+
+Option: 43025插頭 (10個)
+qty: 1
+
+Option: 43025直針座 (10個)
+qty: 1
+
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.22.2b0b6132lUZV92&id=618649223361&ns=1&abbucket=18&skuId=4533092206641
+Option: 簡牛2.54mm 直排IDC-16P （10個）
+qty: 1
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.704e43e7TyS7jJ&id=14422856956&ns=1&abbucket=18
+Option: A母 180度 彎脚直插卷邊 （20個）	
+qty: 1
+
+https://item.taobao.com/item.htm?spm=a21wu.12321156-tw.go-detail.1.515c343aAPCQcN&id=599862493300
+qty: 5
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.16.68da53ed1wSVQz&id=14947051899&ns=1&abbucket=4&skuId=4174373459138
+option: SS24 SB240 (50個)
+qty: 1
+
+
+
+
+
+
+
+https://detail.tmall.com/item.htm?spm=a230r.1.14.41.22dcfac59fIlbH&id=664808234533&ns=1&abbucket=4&skuId=4790648885197
+Option: 100mm (H1.5 - H8) 八件套
+
+
 
 
 
@@ -482,3 +539,57 @@ https://www.ia.omron.com/products/family/1503/specification.html
 seems good light gate
 expensive as fuck
 
+
+
+Motor IC
+MS3989N
+
+stepper IC
+
+
+
+
+
+
+https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.89.1b113b29YPDA8a&id=17318980620&rn=df1800146a8812b00d329a96a905173d&abbucket=13&skuId=4740714196020
+Option: 3*30+4
+Quantity： 5
+
+https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.89.1b113b29YPDA8a&id=17318980620&rn=df1800146a8812b00d329a96a905173d&abbucket=13&skuId=4740714196020
+Option: 3*25+4
+Quantity： 5
+
+https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.89.1b113b29YPDA8a&id=17318980620&rn=df1800146a8812b00d329a96a905173d&abbucket=13&skuId=4740714196020
+Option: 3*16+4
+Quantity： 4
+
+https://detail.tmall.com/item.htm?spm=a1z10.3-b-s.w4011-18288959680.89.1b113b29YPDA8a&id=17318980620&rn=df1800146a8812b00d329a96a905173d&abbucket=13&skuId=4740714196020
+Option: 3*16+4
+Quantity： 4
+
+https://detail.tmall.com/item.htm?spm=a1z10.5-b-s.w4011-18288959677.123.725a49843jywE7&id=16979965616&rn=2e01be5e87c6f9ca186a2747069e2d9b&abbucket=13&skuId=4920070823131
+Option: 5*12 (50粒)
+Quantity： 4
+
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.3f4d3dc8id5BNw&id=589763824870&ns=1&abbucket=18#detail
+Option:單針
+Option: 華榮 P75-A2 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P75-Q2 頭部鍍金(100支）
+QTY: 1
+
+Option:單針
+Option: 華榮 P75-H2 頭部鍍金(100支）
+QTY: 1
+
+mega-fit
+https://item.taobao.com/item.htm?spm=a230r.1.14.16.3ee24572kNtO82&id=589185145798&ns=1&abbucket=4#detail
+Option: 樣品
+QTY: 30
+
+lightgate header
+https://item.taobao.com/item.htm?spm=a230r.1.14.103.37905410AjLIxa&id=572896794207&ns=1&abbucket=4#detail
+Option: 樣品
+QTY: 100
