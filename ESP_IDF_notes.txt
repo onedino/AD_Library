@@ -1,0 +1,20 @@
+ESP hardware design notes
+1. JTAG signal source determined by GPIO3
+2. LDO with good CMRR should be used to power the chip
+3. 300mA or more current when using it for Wi-Fi
+4. JTAG signal pin should be pulled out
+5. download pin and other bootstrap pins should be pull down or up(GPIO 0, 46 for ESP32S3)
+6. need to check SPI voltage (GPIO45 for ESP32S3
+7. 
+
+USB and JTAG should be routed out for programming the device
+EFUSE_DIS_USB_JTAG, EFUSE_DIS_PAD_JTAG, EFUSE_STRAP_JTAG_SEL to determine the JTAG source
+EFUSE_VDD_SPI_FORCE， EFUSE_VDD_SPI_TIEH determines the voltage for SPI
+
+strapping pins need to hold 3ms or more
+official tutorial
+https://www.youtube.com/watch?v=Lc6ausiKvQM
+ESP-IDF guide and notes
+ESP-IDF menu config to configure the project
+
+
