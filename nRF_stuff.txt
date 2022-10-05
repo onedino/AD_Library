@@ -1,0 +1,46 @@
+downlaod vscode
+download nRF Conect for Desktop
+follow the installation guide inside nRF connect
+
+https://academy.nordicsemi.com/
+
+Use J-flash Lite to program the chip when using J-Link clone
+
+debugging works when using clone from this shop
+https://item.taobao.com/item.htm?_u=92elvjvp3448&id=588801009448
+
+https://academy.nordicsemi.com/topic/exercise-2-1/
+follow tutorial from this website
+
+GPIO configuration is done in the .dts file
+copy and paste the board file to your repo for modifications done later
+<install_path>\zephyr\boards\arm\nrf52833dk_nrf52833\nrf52833dk_nrf52833.dts
+
+SoC device tree contains the information for the hardware level of the SoC
+<nRF Connect SDK Installation Path>\zephyr\dts\arm\nordic\nrf52833.dtsi
+do not modify device tree directly, use overlay instead to add attribute to the 
+
+DEVICE_DT_GET() to get the pointer to its implementation
+Each peripheral instance need there own pointer
+
+
+
+https://developer.nordicsemi.com/nRF_Connect_SDK/doc/latest/zephyr/build/dts/howtos.html
+how to use devicetree overlay and stuff
+
+When the MCU could not boot after being flased
+
+Flash the mcu with binary of the firmware from website
+https://devzone.nordicsemi.com/f/nordic-q-a/41131/recover-nrf52dk-bootloader
+https://learn.adafruit.com/circuitpython-on-the-nrf52/nrf52840-bootloader
+https://www.nordicsemi.com/Products/Development-hardware/nrf52-dk/download
+
+flash after holding reset button while power recycle or
+holding and release the reset button right after you start programming it with j-flashlite
+
+https://devzone.nordicsemi.com/f/nordic-q-a/70932/nrf52840dk-gpio-pull-up-not-working
+what to do when u want to use NFC pins for other usage
+
+https://jimmywongiot.com/2019/12/17/internal-rc-calibration-handling-on-the-nordic-nrf52-chipset/
+https://devzone.nordicsemi.com/f/nordic-q-a/72532/how-to-use-the-internal-32-768k-crystal-oscillator-for-nrf5340/298912#298912
+what to do when u want yo use internal RC oscillator
