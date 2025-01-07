@@ -1,0 +1,27 @@
+UL1778 and IEC 62040 for UPS related certifications
+
+UL508A for low voltage control box certifications => control box exterior need to be certifieid and it must be assembled and designed by a UL shop
+
+UL 2367 and IEC 62368-1 certification for e-fuse
+
+IEC 60364 for earthing system connection
+
+IEC 61000 for emc and emi related stuff
+
+IEC 60529 for IP rating
+
+IEC 62933-1 for ESS vocab
+IEC 62933-5 for ESS safety
+IEC 62477-1 Safety requirements for power electronic converter systems and equipment
+
+AS/NZS5139:2019 for arcflash and PPE calculation
+
+UL1699B for arc flash protection for PV panel
+
+G98/99 for the PCS to be allowed to be connected to the national grid
+
+IEC 62053-21 for accurate energy meter connection to grid
+billing energy metering compliance to MID standard 
+IEC 62053-22 Class 0.5S to 0.2S for accuracy stuff
+
+
