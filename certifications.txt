@@ -25,3 +25,21 @@ billing energy metering compliance to MID standard
 IEC 62053-22 Class 0.5S to 0.2S for accuracy stuff
 
 
+@Brian Ryu 
+CT for input power meter, three of them is needed, one for each phase
+
+
+CT for output power meter, three of them is needed, one for each phase
+
+CT for leakage detection (only needed for L model using it with ABB MCCB) 
+
+
+xHMI 
+
+EPO Board schematic and firmware
+
+Poplar LV2 and component selections
+
+Cross work with mechan engineers
+
+
